@@ -1,2 +1,2 @@
-# -koln-ek-Avalonia-C-Sharp
+# ukolnicek-Avalonia-C-Sharp
 Školní projekt
